@@ -1,0 +1,14 @@
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\bin\Debug\CifraCesar.exe.config
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\bin\Debug\CifraCesar.exe
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\bin\Debug\CifraCesar.pdb
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\obj\Debug\CifraCesar.csprojAssemblyReference.cache
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\obj\Debug\CifraCesar.csproj.CoreCompileInputs.cache
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\obj\Debug\CifraCesar.exe
+C:\Users\logonpflocal\source\repos\CifraCesar\CifraCesar\obj\Debug\CifraCesar.pdb
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\bin\Debug\CifraCesar.exe.config
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\bin\Debug\CifraCesar.exe
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\bin\Debug\CifraCesar.pdb
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\obj\Debug\CifraCesar.csprojAssemblyReference.cache
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\obj\Debug\CifraCesar.csproj.CoreCompileInputs.cache
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\obj\Debug\CifraCesar.exe
+C:\Users\steph\Documents\FIAP SCHOOL\Redes\Cifra_de_Cesar\CifraCesar\CifraCesar\obj\Debug\CifraCesar.pdb
